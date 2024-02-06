@@ -1,5 +1,5 @@
 {
-    "name": "khodyco/message",
+    "name": "khodyco/laravel-message",
     "description": "This is a package for sending message through iranian providers, for instance: Kavenegar, smsir, mellipayamak and etc.",
     "type": "library",
     "license": "MIT",
