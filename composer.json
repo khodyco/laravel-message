@@ -1,0 +1,15 @@
+{
+    "name": "khodyco/message",
+    "description": "A short description of your package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad khodarahmpour",
+            "email": "khodarahmpoor@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
