@@ -1,6 +1,6 @@
 {
     "name": "khodyco/message",
-    "description": "A short description of your package",
+    "description": "This is a package for sending message through iranian providers, for instance: Kavenegar, smsir, mellipayamak and etc.",
     "type": "library",
     "license": "MIT",
     "authors": [
