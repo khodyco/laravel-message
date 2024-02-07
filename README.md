@@ -23,7 +23,7 @@ If you discover any security related issues, please email khanzadimahdi@gmail.co
 
 ## Credits
 
-- [Mahdi khanzadi][link-author]
+- [Mohammad Khodarahmpour][link-author]
 - [All Contributors][link-contributors]
 ## License
 
